@@ -3,7 +3,7 @@
     "description": "Villager of the year module voor het Manta CMS voor Laravel",
     "type": "library",
     "license": "MIT",
-    "version": "1.0.2",
+    "version": "1.0.1",
     "keywords": [
         "laravel",
         "manta",
